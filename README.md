@@ -1,4 +1,3 @@
-# Testing_recorder_1234567123456
 '''
 #!/usr/bin/env python3
 import argparse
