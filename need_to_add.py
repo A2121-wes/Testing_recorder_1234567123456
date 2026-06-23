@@ -1,0 +1,1 @@
+sed -i "s/if 'GOOD' in d\['status'\] or 'COMPLETE' in d\['status'\]:/if d['lat'] != 0.0:/" /home/ncalm/novatel_recorder.py
